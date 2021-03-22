@@ -28,8 +28,8 @@ As a Software Engineer, you will use your expertise in engineering, software dev
 
 ## Essential Qualities
 
-- 2+ years experience as an engineer with full-stack oriented development (or development experience on at least two projects)
-  - At least 1 year experience as an engineer with full-stack oriented development (or development experience on at least two projects)
+- Mid-Level: 2+ years experience as an engineer with full-stack oriented development (or development experience on at least two projects)
+  - Junior: At least 1 year experience as an engineer with full-stack oriented development (or development experience on at least two projects)
 - Minimum 2 years of experience with Django (1 year, if Junior)
 - Good working experience with JavaScript.
 - General working knowledge of CSS
